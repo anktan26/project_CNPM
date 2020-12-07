@@ -58,7 +58,7 @@
             </div>
         </div>
     </section>
-     
+   
     <!-- list sản phẩm -->
     <section class="ao-quan">
         <div class="container">
@@ -73,52 +73,8 @@
                             
                         </a>
                     </div>
-                    <!-- <div class="col-sm-6">
-                        <a href="">
-                            <img src="imgProduct/{{$new->pictureProduct}}">
-                            <img id="iconProduct" src="http://phuchajsc.com.vn/images/line2.png">
-                            <span>{{$new->nameProduct}}<br><b class="price">{{$new->priceProduct}} ₫</b></span>
-                            
-                        </a>
-                    </div> -->
                 @endforeach
                 </div>
-                <!-- </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <a href="">
-                            <img src="http://phuchajsc.com.vn/storage/photos/1/product/2.jpg">
-                            <img id="iconProduct" src="http://phuchajsc.com.vn/images/line2.png">
-                            <span>Bộ trang phục 7 Khoản<br><b class="price">236.000 ₫</b></span>
-                            
-                        </a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="">
-                            <img src="http://phuchajsc.com.vn/storage/photos/1/product/2.jpg">
-                            <img id="iconProduct" src="http://phuchajsc.com.vn/images/line2.png">
-                            <span>Bộ áo liền quần Full size; KTT/ TT/ TTHT <br><b class="price">236.000 ₫</b></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <a href="">
-                            <img src="http://phuchajsc.com.vn/storage/photos/1/product/2.jpg">
-                            <img id="iconProduct" src="http://phuchajsc.com.vn/images/line2.png">
-                            <span>Bộ trang phục 7 Khoản<br><b class="price">236.000 ₫</b></span>
-                            
-                        </a>
-                    </div>
-                    <div class="col-sm-6">
-                        <a href="">
-                            <img src="http://phuchajsc.com.vn/storage/photos/1/product/2.jpg">
-                            <img id="iconProduct" src="http://phuchajsc.com.vn/images/line2.png">
-                            <span>Bộ trang phục 7 Khoản<br><b class="price">236.000 ₫</b></span>
-                            
-                        </a>
-                    </div>
-                </div>-->
         </div>
     </section>
 </body>
