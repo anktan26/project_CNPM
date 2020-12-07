@@ -1,0 +1,44 @@
+.container{
+    margin-top: 100px;
+}
+
+.content h5{
+    color:rgb(11, 87, 137);
+    font-weight: 700;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.col-sm-6{
+    margin-left: 300px;
+    margin-top:15px ;
+}
+.col-sm-8{
+    margin-left: 300px;
+}
+.col-sm-8 input{
+    height: 20px;
+    width: 500px;
+    border: 1px solid rgb(11, 87, 137);
+}
+.col-sm-8 textarea{
+    height: 120px;
+    width: 500px;
+    border: 1px solid rgb(11, 87, 137);
+}
+
+label{
+    font-weight: 700;
+}
+
+.content button{
+    cursor: pointer;
+    width: 300px;
+    height: 28px;
+    margin-left: 100px;
+    border: 1px solid rgb(11, 87, 137);
+}
+
+.content button:hover{
+    background-color: rgb(11, 87, 137);
+}

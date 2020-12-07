@@ -1,0 +1,162 @@
+body {
+     font-family: "DauphinPlain";
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+.header_logo img{
+  max-height:100px;
+}
+.header_logo .container{
+  padding:0px;
+  max-height:100px;
+}
+.header_logo form{
+  padding-top:19px;
+}
+
+
+
+.progress_bar .container{
+    padding: 5px;
+    font-size:15px;
+    font-weight: 700;
+  }
+  .progress_bar .col-sm-2{
+    padding: 0px;
+  }
+  .progress_bar .col-sm-1{
+    padding: 0px;
+  }
+  .progress_bar a{
+    padding: 0px;
+    color:black;
+  }
+  .progress_bar a:hover {
+    border-bottom: 3px solid #FF7F50;
+  }
+  .progress_bar a.active {
+    border-bottom: 3px solid #FF7F50;
+  }
+  .subnav-content{
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color:#F0F8FF;
+    width: 100%;
+    height:415px;
+    z-index: 1;
+    padding-top: 20px;
+    font-size: 12px;
+  }
+  .subnav:hover .subnav-content{
+    display: block;
+    position:absolute;
+    z-index: 100;
+  }
+  #img_bar{
+    width:20px;
+    height:18px;
+  }
+  .progress_bar hr{
+    width:80%;
+    margin-left: 0px;
+  }
+  .progress_bar #img_bar_bar{
+    width:400px;
+    height:300px;
+    float:right;
+  }
+  .container a:hover{
+    text-decoration:none;
+}
+
+#icon{
+  width:20px;
+  height:20px;
+  padding-bottom: 5px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.main_5 .footer_social{
+  position:absolute;
+  right:0px;
+  top:2535px;
+  width:850px;
+  height:0;
+  border-right:0px solid transparent;
+  border-bottom:50px solid #fdb528;
+  border-left: 60px solid transparent;
+}
+
+.main_5{
+  margin-top:70px;
+}
+
+.main_5 .social{
+  position:absolute;  
+    right: 250px;
+    top: 2547px;
+  font-size: 18px;
+  color:white;
+  width:500px;
+}
+
+.main_5 .footer_social{
+  position:absolute;
+  right:0px;
+  top:650px;
+  width:850px;
+  height:0;
+  border-right:0px solid transparent;
+  border-bottom:50px solid #fdb528;
+  border-left: 60px solid transparent;
+}
+
+.main_5{
+  margin-top:70px;
+}
+
+.main_5 .social{
+  position:absolute;  
+    right: 250px;
+    top: 660px;
+  font-size: 18px;
+  color:white;
+  width:500px;
+}
+.thang_can{
+  position:absolute;
+  margin-top:340px;
+  margin-left:0px; 
+  float:left;
+  width:850px;
+  height:0;
+  border-right:80px solid transparent;
+  border-top:50px solid #0b5789;
+
+  border-left: 0px solid transparent;
+  z-index: 1;
+}
